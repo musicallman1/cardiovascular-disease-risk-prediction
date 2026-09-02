@@ -94,7 +94,7 @@ table and discussion in the notebook, Section 3.5.
 
 ## How to run
 
-1. Clone the repo and open `Cardiovascular_Prediction.ipynb` in Jupyter or
+1. Clone the repo and open `Cardiovascular_Prediction_1.ipynb` in Jupyter or
    Google Colab.
 2. Place `train.csv` in the same directory as the notebook (or update the
    `pd.read_csv(...)` path in Section 1.1 to point at your copy).
